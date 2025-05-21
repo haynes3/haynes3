@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Haynes</h1>
-<h3 align="center">A passionate data analyst from DuPage, Illinois. I will be graduating May 9th from NIU with my Master's in Data Analytics. I pinned projects from class to showcase the variations of topics covered. I am extremely excited to take these foundations and build on them for continued learning in the exciting world of data analytics!</h3>
+<h3 align="center">A passionate data analyst from DuPage, Illinois. I recently graduated from NIU with my Master's in Data Analytics. I pinned projects from class to showcase the variations of topics covered. I am extremely excited to take these foundations and build on them for continued learning in the exciting world of data analytics!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haynes3&label=Profile%20views&color=0e75b6&style=flat" alt="haynes3" /> </p>
 
